@@ -1,6 +1,5 @@
 # Infoland Next + TS + Eslint + Prettier boilerplate
 
-
 ## Документация
 
 Скоро будет...
